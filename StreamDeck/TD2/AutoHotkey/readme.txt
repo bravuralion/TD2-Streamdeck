@@ -1,0 +1,1 @@
+Exes were made with AutoHotkey Version 1
