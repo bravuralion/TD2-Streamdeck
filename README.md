@@ -10,7 +10,8 @@ I always wanted to be able to play TD2 using Stream Deck. The implementation for
 
 ## Current Profiles
 
-- Stream Deck XL Profile for ET41-144
+- Stream Deck XL Profile for ET41
+- Stream Deck XL Profile for EP08
 - More on the way
 
 
