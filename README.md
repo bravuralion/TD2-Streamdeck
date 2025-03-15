@@ -15,6 +15,7 @@ I always wanted to be able to play TD2 using Stream Deck. The implementation for
 - Stream Deck XL Profile for EN57
 - Stream Deck XL Profile for SM42
 - Stream Deck XL Profile for EP09
+- Stream Deck XL Profile for ST44
 - More on the way
 
 
